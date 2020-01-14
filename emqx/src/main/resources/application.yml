@@ -1,0 +1,10 @@
+server:
+  port: 8881
+
+emq:
+  broker: tcp://localhost:1883
+  clientId: client-01
+
+
+
+
